@@ -37,11 +37,10 @@ I write on my blog about various topics, such as the philosophy of open source a
 I would highly recommend this post: ["An argument for openness"](https://merrittlj.github.io/posts/argumentforopenness/). It discusses by general thoughts on proprietary software and tech "ecosystems", and why solutions such as open source will play a large role in the future.
 
 # Skills and experience
-I have done varied work in many categories, interests, languages, etc. I mainly try to specialize in a few topics, but I do have expansive general knowledge. Here is a simple breakdown of my experience with various technologies, on various levels:
+I have done varied work in many categories, interests, languages, etc. I mainly try to specialize in a few topics, but I do have expansive general knowledge.
 
-**Disregarding the below experience, I am able to adapt, learn, and effectively utilize technologies and topics for your projects that may be out of the scope below.**
+Below is a simple breakdown of my experience with various technologies, on various levels. This list is not all-inclusive, it is simply to give a general idea of my experience in a visual way. **I am able to adapt, learn, and effectively utilize new technologies and topics, so I am not limited to these.**
 
-This list is not all-inclusive, it is simply to give a general idea of my experience in a visual way.
 ## Highest experience
 I most likely have multiple years of experience with them, and am generally well-versed and ready to utilize them immediately.
 <div align="center">
@@ -125,7 +124,7 @@ This is a very old project(4 years ago, as of writing), tracked within git and d
 Despite being an ancient project, this incorporated time-based items and inventory systems, upgrade paths, and more. The code found here is not exactly a true representation of my abilities in the present, but it is worth mentioning.
 
 ## External work
-I have contributed extensively to an open source Linux project, [bemenu](). This was a real-world experience with managing code within an external project design, workflow, etc. Some of my pull request contributions can be found [here](https://github.com/Cloudef/bemenu/pulls?q=is%3Apr+author%3Amerrittlj).
+I have contributed extensively to an open source Linux project, [bemenu](https://github.com/Cloudef/bemenu). This was a real-world experience with managing code within an external project design, workflow, etc. Some of my pull request contributions can be found [here](https://github.com/Cloudef/bemenu/pulls?q=is%3Apr+author%3Amerrittlj).
 
 In addition, I have developed a considerable web-oriented application from scratch in JavaScript recently, which uses a "serverless"(in the sense of client-side oriented) method for data transfer and building. This was work done for a client, so out of respect for them, the code and further details will not be shared.
 
