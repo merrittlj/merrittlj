@@ -5,18 +5,42 @@
 </h1>
 
 # Introduction
-Hello, I'm Lucas Merritt. I'm a nearly fully self-taught aspiring software developer, with skills and experience in a variety of fields and tools.
+Hello, I am Lucas Merritt. I'm a nearly fully self-taught software developer, with skills and experience in a variety of fields and tools.
 
 I'm looking for interships or opportunities to challenge and apply my knowledge and gain real-world experience.
 
 # Table of contents
-TODO
+[Jump to the end(see the rest of my profile)](#end)
 
-I have done varied work in many categories, interests, languages, etc. I mainly try to specialize in a few topics, but I do have expansive general knowledge. Here is a simple breakdown of my experience with various technologies, on various levels:
+1. [Introduction](#introduction)
+2. [Blog](#blog)
+3. [Skills and experience](#skills-and-experience)
+   1. [Highest experience](#highest-experience)
+   2. [Growing experience](#growing-experience)
+   3. [Others](#others)
+4. [Projects](#projects)
+   1. [Salamander](#salamander)
+   2. [brawlhalla-bot](#brawlhalla-bot)
+   3. [rasterizer](#rasterizer)
+   4. [Bamboozled](#bamboozled)
+   5. [External work](#external-work)
+   6. [Honorable mentions](#honorable-mentions)
+5. [Contact](#contact)
 
-### Disregarding the below experience, I am able to adapt, learn, and effectively utilize technologies and topics for your projects that may be out of the scope below.
+---
+
+# Blog
+[Blog link(merrittlj.github.io)](https://merrittlj.github.io/)
+
+I write on my blog about various topics, such as the philosophy of open source and openness in technology, reverse engineering, and more! This blog mainly serves as a record of some projects and ideas, but I also hope this can be used to inform and educate others. 
+
+I would highly recommend this post: ["An argument for openness"](https://merrittlj.github.io/posts/argumentforopenness/). It discusses by general thoughts on proprietary software and tech "ecosystems", and why solutions such as open source will play a large role in the future.
 
 # Skills and experience
+I have done varied work in many categories, interests, languages, etc. I mainly try to specialize in a few topics, but I do have expansive general knowledge. Here is a simple breakdown of my experience with various technologies, on various levels:
+
+**Disregarding the below experience, I am able to adapt, learn, and effectively utilize technologies and topics for your projects that may be out of the scope below.**
+
 This list is not all-inclusive, it is simply to give a general idea of my experience in a visual way.
 ## Highest experience
 I most likely have multiple years of experience with them, and am generally well-versed and ready to utilize them immediately.
@@ -30,8 +54,8 @@ I most likely have multiple years of experience with them, and am generally well
 </div>
 Notes: I am not fully familiar with all aspects of C++, as it is a large language, but feel competent for many tasks in it.
 
-## Medium experience
-I can use these technologies effectively generally, but do not know them well enough for many intricacies and have not fully dived deep into them.
+## Growing experience
+I can use these technologies generally, but do not know them well enough for many intricacies and have not fully dived deep into them.
 <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
@@ -113,5 +137,9 @@ These projects are nearly all abandoned and are no longer being developed, but d
 * [Sharpshooter](https://github.com/merrittlj/SharpshooterApps): A Minecraft "name sniper", which essentially resulted in simply sending a name change request at a certain time(to "snipe"/get a name before everyone else).
 * [emacs.d](https://github.com/merrittlj/emacs.d), [scripts](https://github.com/merrittlj/scripts), and [dotfiles](https://github.com/merrittlj/dotfiles): Includes various scripts, configuration files, etc. for my system.
 
+---
+
 # Contact
-As of currently, please contact me through my email, merrittlj@protonmail.com(also displayed on my GitHub profile). I am open to all inquiries.
+As of currently, please contact me through my email, merrittlj@protonmail.com(also displayed on my GitHub profile). I am open to all inquiries or thoughts.
+
+<a id="end"></a>
